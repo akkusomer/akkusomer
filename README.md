@@ -8,7 +8,7 @@ Hello! I'm Ömer, a software developer and technology enthusiast. I have a stron
 
 ## 📈 My Stats
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=akkusomer&show_icons=true&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akkusomer&label=Profile%20views&color=0e75b6&style=flat" alt="akkusomer" /> </p>
 
 
 ## 🌐 Social Media
